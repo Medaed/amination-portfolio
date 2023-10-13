@@ -17,13 +17,13 @@ const Navbar = () => {
         </motion.span>
         <div className="social">
           <a href="#">
-            <img src="/facebook.svg" alt="" />
+            <img src="./facebook.svg" alt="" />
           </a>
           <a href="#">
-            <img src="/instagram.svg" alt="" />
+            <img src="./instagram.svg" alt="" />
           </a>
           <a href="#">
-            <img src="/youtube.svg" alt="" />
+            <img src="./youtube.svg" alt="" />
           </a>
         </div>
       </div>
